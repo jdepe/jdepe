@@ -5,15 +5,13 @@ Hi there 👋, I'm Jaden!
 </div>
 About Me
 
-    🎓 I have two degrees: a Bachelor of Commerce (Accounting) and a Bachelor of IT (Computer Science major and IoT and Mobile Technologies minor).
+    🎓 I have two degrees: a Bachelor of Commerce (Accounting) and a Bachelor of IT (Computer Science).
 
     💡 I'm interested in software and web development.
 
     🌱 I'm always learning new things to expand my skills.
 
     📫 You can reach me at jaden.dep@gmail.com.
-
-Core Technologies
 
 Here are some of the key technologies I work with:
 
